@@ -1,0 +1,23 @@
+{
+  "name": "proj4-js",
+  "version": "4.9.3-1",
+  "description": "Emscripten binding for proj4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kespry/proj4-js.git"
+  },
+  "keywords": [
+    "proj4",
+    "gis"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kespry/proj4-js/issues"
+  },
+  "homepage": "https://github.com/kespry/proj4-js#readme"
+}
